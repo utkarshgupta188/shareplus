@@ -43,7 +43,7 @@ function Page() {
         <GithubIcon></GithubIcon>
         <div>
           <span>Check it out at&nbsp;</span>
-          <a href="https://github.com/Sekky61/Katana" className='link'>Github</a>
+          <a href="https://github.com/utkarshgupta188/shareplus" className='link'>Github</a>
         </div>
       </div>
     </div>
