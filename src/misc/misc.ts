@@ -28,5 +28,5 @@ export function saveArrayBuffer(arrayBuffer: ArrayBuffer, fileName: string) {
 }
 
 export function getRandomId(): string {
-  return Math.random().toString(36).slice(2);
+  return Math.floor(100000 + Math.random() * 900000).toString();
 }
